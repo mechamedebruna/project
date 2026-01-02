@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[27056],{44032:(s,e,_)=>{_.r(e),_.d(e,{default:()=>A});var o=_(73620),n=_(96540),c=_(46942),t=_.n(c);const i=_(65363).iconList.IconChevron,r=s=>{let{className:e=""}=s;return(0,o.A)("svg",{className:t()("ui-pdp-icon ui-pdp-icon--chevron",e),viewBox:"0 0 9 14",xmlns:"http://www.w3.org/2000/svg"},void 0,(0,o.A)("use",{href:`#${i}`}))};r.ICON_ID=i;const A=(0,n.memo)(r)}}]);
+//# sourceMappingURL=chevron.9375c3e1.js.map

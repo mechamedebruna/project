@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[75246],{99653:(_,s,A)=>{A.r(s),A.d(s,{default:()=>D});const D=A(72230).nM}}]);
+//# sourceMappingURL=components-promotions.53c77f2c.js.map
