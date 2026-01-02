@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[90617],{42731:(_,e,s)=>{s.r(e),s.d(e,{default:()=>D});const{ReviewsMobileCapability:A}=s(71976),D=A}}]);
+//# sourceMappingURL=reviews-capability.014ee580.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[38361],{54715:(e,s,t)=>{t.r(s),t.d(s,{IconRuler:()=>u,default:()=>c});var i=t(73620),r=t(96540),_=t(46942),n=t.n(_);const o=t(65363).iconList.IconRuler,u=e=>{let{className:s=""}=e;return(0,i.A)("svg",{className:n()("ui-pdp-icon ui-pdp-icon--return",s),xmlns:"http://www.w3.org/2000/svg",width:"14",height:"12",viewBox:"0 0 19 11","aria-hidden":"true"},void 0,(0,i.A)("use",{href:`#${o}`}))};u.ICON_ID=o;const c=(0,r.memo)(u)}}]);
+//# sourceMappingURL=ruler.09cfae79.js.map
